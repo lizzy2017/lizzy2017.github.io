@@ -1,0 +1,35 @@
+body{
+	background-image:url("success.jpg");
+	height:900px;
+margin:0px;
+}
+
+h1{
+	text-align: center;
+}
+
+.container{
+	height:900px;
+		display: flex;
+		flex-wrap: wrap;
+	align-items:center;
+justify-content: center;
+}
+.btn-outline-primary{background-color: white;
+color:violet;
+text-align: center;
+padding: 1rem 2rem;
+border-radius: 300px;
+background-position: center;
+}
+
+.row{
+	padding: 200py;
+}
+
+.subscribe{
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
